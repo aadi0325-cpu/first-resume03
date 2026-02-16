@@ -8,10 +8,10 @@
 
 /* ===== BACKGROUND ===== */
 body {
-    background: linear-gradient(135deg, #667eea, #764ba2, #6dd5ed);
+    background: linear-gradient(135deg, #7e884e, #869c4d, #ab6a28);
     background-size: 300% 300%;
     animation: gradientMove 8s ease infinite;
-    display: flex;
+    display: flex;  
     justify-content: center;
     padding: 40px 15px;
 }
